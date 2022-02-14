@@ -1,6 +1,6 @@
 module github.com/engflow/terraform-provider-tlsconvert
 
-go 1.15
+go 1.17
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.8.0
